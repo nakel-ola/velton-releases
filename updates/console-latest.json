@@ -1,43 +1,51 @@
 {
-  "version": "0.1.1",
+  "version": "1.0.0",
   "notes": "See the assets to download this version.",
-  "pub_date": "2026-10-26T21:05:11Z",
+  "pub_date": "2026-11-07T02:58:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXE0WWVVaUpyVm51Nm10K0c1dUcyL0xyUmt3NHZYVzc2bWpwMUhwL3JBeGMwQ0Y2c0g5MUUrNGFCVHl6S1gvQ0NYK0U0dXBxbVNneXF4M1VTaGlsRlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQzOTA4CWZpbGU6VmVsdG9uIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCk9aRWt2Q2MyL0NjdHNZRXVmK3p4Uk5SekEwNkMwSHBFQnpJSHFqZVdvcmFZbFhhcllRcFh6d3FmVk8xY1VkYk1Pdmd1aytGUkt5bHJsaUxnb3AzcUF3PT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.1/Velton.Console_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW91Vm1WdHpSMkN0Yk5XRVMzcG9pM0l3MFNvb0ZCQTFyeEF5YTNYRUxzZEJsWDVXR2F3ZlVwU3RLRzE5TGZtWnNURnpnZXRCZ3pISGNOZUtYNDdUdUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDExNzMwCWZpbGU6VmVsdG9uIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wClBnakc1KzJkN01PMGh0SzZvemQ1U08rS1NUbnJKMU1Id21jd0ZRTTlpMHBvVytDYm1uNzBUbGZTNkU4VHdEVlJkajgzQ1FHQ2QxZHFQTnVaUzlpOERBPT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/console-v1.0.0/Velton.Console_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXE0WWVVaUpyVm51Nm10K0c1dUcyL0xyUmt3NHZYVzc2bWpwMUhwL3JBeGMwQ0Y2c0g5MUUrNGFCVHl6S1gvQ0NYK0U0dXBxbVNneXF4M1VTaGlsRlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQzOTA4CWZpbGU6VmVsdG9uIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCk9aRWt2Q2MyL0NjdHNZRXVmK3p4Uk5SekEwNkMwSHBFQnpJSHFqZVdvcmFZbFhhcllRcFh6d3FmVk8xY1VkYk1Pdmd1aytGUkt5bHJsaUxnb3AzcUF3PT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.1/Velton.Console_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW91Vm1WdHpSMkN0Yk5XRVMzcG9pM0l3MFNvb0ZCQTFyeEF5YTNYRUxzZEJsWDVXR2F3ZlVwU3RLRzE5TGZtWnNURnpnZXRCZ3pISGNOZUtYNDdUdUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDExNzMwCWZpbGU6VmVsdG9uIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wClBnakc1KzJkN01PMGh0SzZvemQ1U08rS1NUbnJKMU1Id21jd0ZRTTlpMHBvVytDYm1uNzBUbGZTNkU4VHdEVlJkajgzQ1FHQ2QxZHFQTnVaUzlpOERBPT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/console-v1.0.0/Velton.Console_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXRhZVE5WDJsbEcwUS9HUjRQNW1pd3FaTkd3ejRtaitHTWY0Yld4TjEya0lJRFNXZ2xuS1l1S0UvQlQ3aGhDSjJBWWhpL1RWcXljUzhmd3kxbVpQWXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ0Njc3CWZpbGU6VmVsdG9uIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCkRrb2x5bW0rcjJNYjhJRExWbTJJZTlEanVhZFJsOWZuSTNEcWxGK2N2REFiSlFoOCs0NGljTHNXYUdLWlNzeHh4S0h3WFJ5N3lWNlcrME9nenppL0N3PT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.1/Velton.Console_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWtVYUJKMEgrL2FtZDZBUFNoV1dYRFlBUVgxSHVVellZVDBPN0JvbmlOV0FseVFFeFhsVHVmc3RHZi9UNFB3MkdHSGNOQWRQL3JaTDhPTUNRbVhZSHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyNTMyCWZpbGU6VmVsdG9uIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCjV6bE5vR2x1S3JHU3F2Z3dvTzhoakFHUVlpckh3dGIwUytFUzA0ZXpUS3U2RzZpcGlBanFSSVNDQ0IzQXhuRWNHNlNPQWdDdEh0VmtyYk1LendLRkR3PT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/console-v1.0.0/Velton.Console_x64.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXRhZVE5WDJsbEcwUS9HUjRQNW1pd3FaTkd3ejRtaitHTWY0Yld4TjEya0lJRFNXZ2xuS1l1S0UvQlQ3aGhDSjJBWWhpL1RWcXljUzhmd3kxbVpQWXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ0Njc3CWZpbGU6VmVsdG9uIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCkRrb2x5bW0rcjJNYjhJRExWbTJJZTlEanVhZFJsOWZuSTNEcWxGK2N2REFiSlFoOCs0NGljTHNXYUdLWlNzeHh4S0h3WFJ5N3lWNlcrME9nenppL0N3PT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.1/Velton.Console_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWtVYUJKMEgrL2FtZDZBUFNoV1dYRFlBUVgxSHVVellZVDBPN0JvbmlOV0FseVFFeFhsVHVmc3RHZi9UNFB3MkdHSGNOQWRQL3JaTDhPTUNRbVhZSHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyNTMyCWZpbGU6VmVsdG9uIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCjV6bE5vR2x1S3JHU3F2Z3dvTzhoakFHUVlpckh3dGIwUytFUzA0ZXpUS3U2RzZpcGlBanFSSVNDQ0IzQXhuRWNHNlNPQWdDdEh0VmtyYk1LendLRkR3PT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/console-v1.0.0/Velton.Console_x64.app.tar.gz"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW5XMUJlenA2cHJmT01HUHUzT2YrSUJVejg3Y2xKTElBNmdaczJPOWZhemJ4UkNRZnJQS0NGODlPUkw4T2I2dmVrVjZvckhyRTJyTVdCSUNRNWp1THdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ0NTIwCWZpbGU6VmVsdG9uIENvbnNvbGVfMC4xLjFfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKMkptcXV0VCtweTJ5Q2RqU25NWng4UHVtV0Zwc3IrMnJVOG1DNkNDTFZJTTFEU2ZhN3A5djQ2OWVOSUZCMitVdFYxZzRTMFoxQVozZW1IREErN3QrQ0E9PQo=",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.1/Velton.Console_0.1.1_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXVQYzZtWklBbTd6NGlJR3p1U1VFem03ZkNpdXdTcTNDSXJRMzlUTUxPSDBYU2FIbUhGOC9seUo2OFpZamwySmFCMnhQNll0QkN0SUNkcS9vN2FpM0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyNDkwCWZpbGU6VmVsdG9uIENvbnNvbGVfMS4wLjBfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjAKNEt5TktPbm9vckRkNDhIcW9hZHBsZXJjUFZDN3dlNXJDeHZsVW5GajI1cEhSMEg2QWUxV2Q2U2gwQ3VtbmU1d3BBT2U4czdyNGhRRUEydGRiTUR1QlE9PQo=",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/console-v1.0.0/Velton.Console_1.0.0_arm64-setup.exe"
     },
     "windows-aarch64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW5XMUJlenA2cHJmT01HUHUzT2YrSUJVejg3Y2xKTElBNmdaczJPOWZhemJ4UkNRZnJQS0NGODlPUkw4T2I2dmVrVjZvckhyRTJyTVdCSUNRNWp1THdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ0NTIwCWZpbGU6VmVsdG9uIENvbnNvbGVfMC4xLjFfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKMkptcXV0VCtweTJ5Q2RqU25NWng4UHVtV0Zwc3IrMnJVOG1DNkNDTFZJTTFEU2ZhN3A5djQ2OWVOSUZCMitVdFYxZzRTMFoxQVozZW1IREErN3QrQ0E9PQo=",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.1/Velton.Console_0.1.1_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXVQYzZtWklBbTd6NGlJR3p1U1VFem03ZkNpdXdTcTNDSXJRMzlUTUxPSDBYU2FIbUhGOC9seUo2OFpZamwySmFCMnhQNll0QkN0SUNkcS9vN2FpM0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyNDkwCWZpbGU6VmVsdG9uIENvbnNvbGVfMS4wLjBfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjAKNEt5TktPbm9vckRkNDhIcW9hZHBsZXJjUFZDN3dlNXJDeHZsVW5GajI1cEhSMEg2QWUxV2Q2U2gwQ3VtbmU1d3BBT2U4czdyNGhRRUEydGRiTUR1QlE9PQo=",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/console-v1.0.0/Velton.Console_1.0.0_arm64-setup.exe"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW5Wc0s2bUhKQW9ya0NiZ256RWJpYWdUSmJCV3ZyMXBhMEdFMWpjbnc4cWJLcVpMWTlmdGhmUkVvMVZjZzI3LzJIWEE2Vm1NWDUxMitKOGVFaTRMMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ3MDIyCWZpbGU6VmVsdG9uIENvbnNvbGVfMC4xLjFfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4xCjI1R1A3RGp4K2dZM3Ayb2FFMGxJMFNtR0pXcFZlSE5rYXE3NWdzMnp0b1BIRUZHald1UTdZbUx0SmdLbTEzV1ZsMGlGT1FDOUI1UHZKZmJmM2I2VURBPT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.1/Velton.Console_0.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXA3K2FlaGtkcDdkblN5VXBaRnM2c2FKZkFRcG9Ody81WERTUlFFUUFiK0ZuQVM4VVkyTDJ2MFVYTm5ZaDAwV3JYMFF3ZkpmdkZZYnVIcS9OQUN1OHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE1MDI0CWZpbGU6VmVsdG9uIENvbnNvbGVfMS4wLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC4wClVhMGYyRm9ldktqUFI3UHBXVUlZRnRZdmxwYXh4OTFNZnFmMEV5Rm9EWUsrMFdaTytqV0hMek1lb2M5NStkT3kzOVk3WndLcUx1R24wR1RNWVcwN0F3PT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/console-v1.0.0/Velton.Console_1.0.0_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW5Wc0s2bUhKQW9ya0NiZ256RWJpYWdUSmJCV3ZyMXBhMEdFMWpjbnc4cWJLcVpMWTlmdGhmUkVvMVZjZzI3LzJIWEE2Vm1NWDUxMitKOGVFaTRMMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ3MDIyCWZpbGU6VmVsdG9uIENvbnNvbGVfMC4xLjFfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4xCjI1R1A3RGp4K2dZM3Ayb2FFMGxJMFNtR0pXcFZlSE5rYXE3NWdzMnp0b1BIRUZHald1UTdZbUx0SmdLbTEzV1ZsMGlGT1FDOUI1UHZKZmJmM2I2VURBPT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.1/Velton.Console_0.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXA3K2FlaGtkcDdkblN5VXBaRnM2c2FKZkFRcG9Ody81WERTUlFFUUFiK0ZuQVM4VVkyTDJ2MFVYTm5ZaDAwV3JYMFF3ZkpmdkZZYnVIcS9OQUN1OHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE1MDI0CWZpbGU6VmVsdG9uIENvbnNvbGVfMS4wLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC4wClVhMGYyRm9ldktqUFI3UHBXVUlZRnRZdmxwYXh4OTFNZnFmMEV5Rm9EWUsrMFdaTytqV0hMek1lb2M5NStkT3kzOVk3WndLcUx1R24wR1RNWVcwN0F3PT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/console-v1.0.0/Velton.Console_1.0.0_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWpNd2lNcVNYK21pMTIzTkZuYXZ0OWc0SzZsZmFWa2NwT2U5VVRtWDJRR2h2MkVtMjhxUThhY0h0SUxKMVJhaGpFUVVSMVJIWWlpaDBNTGVaRFNZZndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ3MDIyCWZpbGU6VmVsdG9uIENvbnNvbGVfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCmhSZ0xwTkpaMHFyYVJwbGRtT3ZqMzIvZVAwbjNZK3FxK2FHbTZqMnIzMkRpQUJKd2xid2FlRlI5Y21majZuKzZONTBGY010VTZlSS9Mbm1xeFp5TEJnPT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.1/Velton.Console_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWljVDZTRVQ2cTJuVlN1MmpTTDk3TU83ZnJ5d21jOUJmdisyd1RJOTZraFNkL3ZRU0VzaDZFZzJ0L0JyT3lhZksrOC8zODFhK1pzVlBkZFBNdlNlVEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE1MDI0CWZpbGU6VmVsdG9uIENvbnNvbGVfMS4wLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wCkdqZTVSVEFwL0tKdVRGREFXUlBDb3VYcitHaEd3SzBnOXQ1eURmK1BTLzZsUTJwVTZwcy92NGxub3l1RlVuWklRSVZLK3ZUWGIySUlmc1JZdmM5UkJ3PT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/console-v1.0.0/Velton.Console_1.0.0_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXZnWkFyVmVJQlMxN2FPdy9PK3JGZVVHTlY5cm9SVzh4VWRzYkgzWFJwWGhKeE9xdW9OZnd6ZFpOTXIzWDVrWlQvdFUrWGk0dnRCSFBudVRiNlc1ZUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE0MDg4CWZpbGU6VmVsdG9uIENvbnNvbGVfMS4wLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjAuMAozeTBnaEdQSjZ0czZ0TU85UWFmYjFyYUh5QW9GK1pNWVdrWXB6RUhzSisxV1pRNE01bi9ud3dkaHVmQ1paZDFGVkdzTHVSVERNVTRJbThTRnh2Z3dDdz09Cg==",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/console-v1.0.0/Velton.Console_1.0.0_amd64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXZnWkFyVmVJQlMxN2FPdy9PK3JGZVVHTlY5cm9SVzh4VWRzYkgzWFJwWGhKeE9xdW9OZnd6ZFpOTXIzWDVrWlQvdFUrWGk0dnRCSFBudVRiNlc1ZUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE0MDg4CWZpbGU6VmVsdG9uIENvbnNvbGVfMS4wLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjAuMAozeTBnaEdQSjZ0czZ0TU85UWFmYjFyYUh5QW9GK1pNWVdrWXB6RUhzSisxV1pRNE01bi9ud3dkaHVmQ1paZDFGVkdzTHVSVERNVTRJbThTRnh2Z3dDdz09Cg==",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/console-v1.0.0/Velton.Console_1.0.0_amd64.AppImage"
     }
   }
 }
