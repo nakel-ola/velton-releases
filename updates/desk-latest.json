@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0-alpha.1",
+  "notes": "Velton Desk alpha.",
+  "pub_date": "2026-11-07T23:15:26Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/desk-v0.1.0-alpha.1/Velton.Desk_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXF4UzJmQ1dJTGY5eGpDZThXL3dwTDAvQk9tTDR0dE5yOURYRVAyUkZhdXUxa3BYREs3MEhzaDRyKy96cm5Lc2FjQjBMYkU2VE9PUEhSdlBXM1ZvSndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDkyODYwCWZpbGU6VmVsdG9uIERlc2suYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWFscGhhLjEKZGdQSlJIZk44bEdxeTdnMGRadFQ5aGJFRWRUNzVHenhhdVNacFlpZlo0REdXV09UU0V0WkZjR2pKeVJmVHc5anNuVm5nTkFsODJxYUM5VHZKN0JvQXc9PQo="
+    },
+    "darwin-aarch64-app": {
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/desk-v0.1.0-alpha.1/Velton.Desk_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXF4UzJmQ1dJTGY5eGpDZThXL3dwTDAvQk9tTDR0dE5yOURYRVAyUkZhdXUxa3BYREs3MEhzaDRyKy96cm5Lc2FjQjBMYkU2VE9PUEhSdlBXM1ZvSndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDkyODYwCWZpbGU6VmVsdG9uIERlc2suYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWFscGhhLjEKZGdQSlJIZk44bEdxeTdnMGRadFQ5aGJFRWRUNzVHenhhdVNacFlpZlo0REdXV09UU0V0WkZjR2pKeVJmVHc5anNuVm5nTkFsODJxYUM5VHZKN0JvQXc9PQo="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/desk-v0.1.0-alpha.1/Velton.Desk_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXZYNkc5RFZ5REVCYzRvaFg0VjE5cnh3dEVzSTM1NGpGaXJJYzNoNWFtcHluU2hSTXNZQVp4SHpNUS92Y1h6ejlweFNkMVJUTUw1VG44MUtHaU5mT3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDkzMjQ2CWZpbGU6VmVsdG9uIERlc2suYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWFscGhhLjEKTUhTZnlRTlhsUXUvSEJQaldJbThJd0F4ZnVPOVhVU0tDNnV1WHd3TGN3a1lHMjlpS0ZodlR6TlFyQUZkZGZYbTNGdk5DakxRQ2d1dkZFU2M0c2xoQVE9PQo="
+    },
+    "darwin-x86_64-app": {
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/desk-v0.1.0-alpha.1/Velton.Desk_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXZYNkc5RFZ5REVCYzRvaFg0VjE5cnh3dEVzSTM1NGpGaXJJYzNoNWFtcHluU2hSTXNZQVp4SHpNUS92Y1h6ejlweFNkMVJUTUw1VG44MUtHaU5mT3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDkzMjQ2CWZpbGU6VmVsdG9uIERlc2suYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWFscGhhLjEKTUhTZnlRTlhsUXUvSEJQaldJbThJd0F4ZnVPOVhVU0tDNnV1WHd3TGN3a1lHMjlpS0ZodlR6TlFyQUZkZGZYbTNGdk5DakxRQ2d1dkZFU2M0c2xoQVE9PQo="
+    }
+  }
+}
