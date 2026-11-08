@@ -1,51 +1,59 @@
 {
-  "version": "1.0.0",
-  "notes": "See the assets to download this version.",
-  "pub_date": "2026-11-07T02:58:27Z",
+  "version": "1.0.1",
+  "notes": "",
+  "pub_date": "2026-11-08T07:38:54.937Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXBZRkw4bXVsTkdCc2RSTzA3L21jK3ZUcStwZzJ0WEpkazU5YzBSZUhSZ2VqUVBHM0QzNmI4ZGVjamxIZHFmRXozN2ZKdnpvWFJtTmFLRGF0Q2ZYWVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyMzUzCWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCjNMS3V5bGE4YUIyQVpBcnI2WXNwSlpTck12WDRmQWJ2dDFkdVhxZWZzbk1IWSsvS2E0SklXQk1QT0V2SzZZeHJ5WjdVL2NPbXZ0VHovOXN0c2VoQUR3PT0K",
-      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.0/Velton.Live_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWdkRzh5ajlObTZnTVVyQS9qWWtMd3NZcG9mWmVwRGdTZmoyNFdDdklwWHdxbEt6RWZKcGo2R2ZMN2RDZDUwL0w3UllkVEllbzl6cWd5V0ozMzBzT3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIyNjAyCWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xCktvZ3NVL1pCS3Z2bU11aTlCaElmeGpKWitNSGdKZGRJejdrc2cxQjBIL1Q1ZkFvYkVmU29Zd3JKanI2YnYrNHJBMmU0QVdJN01tVkEyZjJIb3k2cUF3PT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXBZRkw4bXVsTkdCc2RSTzA3L21jK3ZUcStwZzJ0WEpkazU5YzBSZUhSZ2VqUVBHM0QzNmI4ZGVjamxIZHFmRXozN2ZKdnpvWFJtTmFLRGF0Q2ZYWVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyMzUzCWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCjNMS3V5bGE4YUIyQVpBcnI2WXNwSlpTck12WDRmQWJ2dDFkdVhxZWZzbk1IWSsvS2E0SklXQk1QT0V2SzZZeHJ5WjdVL2NPbXZ0VHovOXN0c2VoQUR3PT0K",
-      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.0/Velton.Live_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWdkRzh5ajlObTZnTVVyQS9qWWtMd3NZcG9mWmVwRGdTZmoyNFdDdklwWHdxbEt6RWZKcGo2R2ZMN2RDZDUwL0w3UllkVEllbzl6cWd5V0ozMzBzT3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIyNjAyCWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xCktvZ3NVL1pCS3Z2bU11aTlCaElmeGpKWitNSGdKZGRJejdrc2cxQjBIL1Q1ZkFvYkVmU29Zd3JKanI2YnYrNHJBMmU0QVdJN01tVkEyZjJIb3k2cUF3PT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW8wM2ZiOGpHSXVPa0ZZcUdWQW55Z0NJOC8xNnNWSnNrYXpNbVY2cktYWnk0WXVuRm5vSmZCVHg2eVNGYytzL0NiNzJ6MWNKZzA4akNsZVRyOTJZRnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyOTA4CWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCml0RUR2OTJDTzJVSXFoQzJ3Uk5PZlZMdUd6dmZoeGxTN0Z3VHVwbEFhR0xFdHY3elJ2djM0TitDUDRJMUNNT2wzbUp5WFZra21ZbmVsYVNVV2UwTERnPT0K",
-      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.0/Velton.Live_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWhvU0dSSUlkQVp1WnlQdVE4RkIrR05ldnR0SU1MYUJXNkVxNUFlZm81b3pwdEdRanBya0xNSVhoTng3OHE1bjlrckxWd3pCZXdTalUwcmtWZUJFTndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIyNjA5CWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xCmRwUEJreTl0MGVNOXdHdjY3VFJLRXZiTWZaWC8vTk9wRTdreEVpaUJiOURrNjhURUtzUEIyRXVrTDZlaGJoWFF1RjlxSW9zTFBJekJRZmxwaHNrUEJRPT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_x64.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW8wM2ZiOGpHSXVPa0ZZcUdWQW55Z0NJOC8xNnNWSnNrYXpNbVY2cktYWnk0WXVuRm5vSmZCVHg2eVNGYytzL0NiNzJ6MWNKZzA4akNsZVRyOTJZRnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEyOTA4CWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCml0RUR2OTJDTzJVSXFoQzJ3Uk5PZlZMdUd6dmZoeGxTN0Z3VHVwbEFhR0xFdHY3elJ2djM0TitDUDRJMUNNT2wzbUp5WFZra21ZbmVsYVNVV2UwTERnPT0K",
-      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.0/Velton.Live_x64.app.tar.gz"
-    },
-    "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWxJMlFXNlVPQ1FQdmhTVHdEWGR6ZkNGdVA5VFVNejI3Z0ljL0c3T0E0aG9YejJyVmdJNDFFUE1OaUI1eHl1ek9iM2NMWUM4UEhvZmpBbEFjV3ZjSUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEzNDkzCWZpbGU6VmVsdG9uIExpdmVfMS4wLjBfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjAKbUpkcGszK2VEdTBleVExM0g4MW4rZEhnSG1vbmxkWFRrcWJmbFpaWFoxZWQyOTJtbDlXRjMrTDdpd05Sd3BXOWtxS1ZXbFRYVXpVdzlPNXNMandWQkE9PQo=",
-      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.0/Velton.Live_1.0.0_arm64-setup.exe"
-    },
-    "windows-aarch64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWxJMlFXNlVPQ1FQdmhTVHdEWGR6ZkNGdVA5VFVNejI3Z0ljL0c3T0E0aG9YejJyVmdJNDFFUE1OaUI1eHl1ek9iM2NMWUM4UEhvZmpBbEFjV3ZjSUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEzNDkzCWZpbGU6VmVsdG9uIExpdmVfMS4wLjBfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjAKbUpkcGszK2VEdTBleVExM0g4MW4rZEhnSG1vbmxkWFRrcWJmbFpaWFoxZWQyOTJtbDlXRjMrTDdpd05Sd3BXOWtxS1ZXbFRYVXpVdzlPNXNMandWQkE9PQo=",
-      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.0/Velton.Live_1.0.0_arm64-setup.exe"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWlqTWpTQWREVDFSQ0plMy9ySFl1K3c5ekdGcEdYb3MvZm1lalo3alZrdzNacm41VkhaRzIyaWoxNk9ZYWJRMUpwOXA2RVJYSXhMK1lTanlkc2Yzc3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE1NTEwCWZpbGU6VmVsdG9uIExpdmVfMS4wLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC4wCkxZVUhtNTlpM2puK2UzNmFXYXZqamZBejBFYy96Sk95SjhwYjBtaUVuM1NmWkhQN2VpaHRPS1R4SEd5SHJrR3E5WVMrQmdyWFdrV2U5Z0NEd1RJNkNnPT0K",
-      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.0/Velton.Live_1.0.0_x64_en-US.msi"
-    },
-    "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWlqTWpTQWREVDFSQ0plMy9ySFl1K3c5ekdGcEdYb3MvZm1lalo3alZrdzNacm41VkhaRzIyaWoxNk9ZYWJRMUpwOXA2RVJYSXhMK1lTanlkc2Yzc3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE1NTEwCWZpbGU6VmVsdG9uIExpdmVfMS4wLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC4wCkxZVUhtNTlpM2puK2UzNmFXYXZqamZBejBFYy96Sk95SjhwYjBtaUVuM1NmWkhQN2VpaHRPS1R4SEd5SHJrR3E5WVMrQmdyWFdrV2U5Z0NEd1RJNkNnPT0K",
-      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.0/Velton.Live_1.0.0_x64_en-US.msi"
-    },
-    "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXZML0dGd0ZtUmFCa1hSWFQxb0oxRklVVGMyM2trdCtzdDRaUHZ1WVVjOVdINXF6WFd3anZ2RDdQVTFWQTVYUGJZWEFHQlJXTDNnK3VIMU4wOWxxTUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE1NTEwCWZpbGU6VmVsdG9uIExpdmVfMS4wLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wClBVeXdLZDFmUG94UU1wWVMzZjRZdUVsUzkrUHZka3RqM1M5Q09sZzBNeSsyYVVNOVlCYjZyeWRHR25JSHFqTk9IR1BKaG5ZbjhjazhYRzkyekM0M0N3PT0K",
-      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.0/Velton.Live_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWhvU0dSSUlkQVp1WnlQdVE4RkIrR05ldnR0SU1MYUJXNkVxNUFlZm81b3pwdEdRanBya0xNSVhoTng3OHE1bjlrckxWd3pCZXdTalUwcmtWZUJFTndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIyNjA5CWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xCmRwUEJreTl0MGVNOXdHdjY3VFJLRXZiTWZaWC8vTk9wRTdreEVpaUJiOURrNjhURUtzUEIyRXVrTDZlaGJoWFF1RjlxSW9zTFBJekJRZmxwaHNrUEJRPT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_x64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXZxcnVPUnpkeDVUeUFxQU1vcXRFUUswTEdhRVVqelJYckxoYzlQdk5mQnRoVmpLYWhpQ1RPSnBGOHJDR3d6VkVuZS9XTnA2K0tiV09jeUQvNGNCQXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE0Nzc1CWZpbGU6VmVsdG9uIExpdmVfMS4wLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjAuMApacFcrK2pDWGR4dGVlTlVDaVIzTUkveVF0NTRrTWl5ZXN4RG5CdEVteFNPMmpXZ1E4LysrcW5FbCsrbVpGYWw0UTNuUlF6cWxiK2htMlZHMjJOVVRCdz09Cg==",
-      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.0/Velton.Live_1.0.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWc4UURzR1BleFozNGVqaUFteCtBUWJJVERsVy9mMVdzRi83UGpXaXRMNi9MdnlZVjJFTnJFMFdaTDUzNGxqc2UzTDNhYktuaEdtenBmcmEybU5iQ3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIyNzEzCWZpbGU6VmVsdG9uIExpdmVfMS4wLjFfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjAuMQpNRnZRMWswR0xpSjAyV3RuVHR4SlRGRmo1d2M1ZUNqNWpYcEtyRmZyb0tKanMzbVd1U0hsb2lzZE1ta1J1eXdJVW1RTlZXSkMzSEQ2QXhxZDQrQzFCZz09Cg==",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_1.0.1_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXZxcnVPUnpkeDVUeUFxQU1vcXRFUUswTEdhRVVqelJYckxoYzlQdk5mQnRoVmpLYWhpQ1RPSnBGOHJDR3d6VkVuZS9XTnA2K0tiV09jeUQvNGNCQXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE0Nzc1CWZpbGU6VmVsdG9uIExpdmVfMS4wLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjAuMApacFcrK2pDWGR4dGVlTlVDaVIzTUkveVF0NTRrTWl5ZXN4RG5CdEVteFNPMmpXZ1E4LysrcW5FbCsrbVpGYWw0UTNuUlF6cWxiK2htMlZHMjJOVVRCdz09Cg==",
-      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.0/Velton.Live_1.0.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWc4UURzR1BleFozNGVqaUFteCtBUWJJVERsVy9mMVdzRi83UGpXaXRMNi9MdnlZVjJFTnJFMFdaTDUzNGxqc2UzTDNhYktuaEdtenBmcmEybU5iQ3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIyNzEzCWZpbGU6VmVsdG9uIExpdmVfMS4wLjFfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjAuMQpNRnZRMWswR0xpSjAyV3RuVHR4SlRGRmo1d2M1ZUNqNWpYcEtyRmZyb0tKanMzbVd1U0hsb2lzZE1ta1J1eXdJVW1RTlZXSkMzSEQ2QXhxZDQrQzFCZz09Cg==",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_1.0.1_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW1sMkxMekpLR0V5NXh6dlVpdzF3L1kxMDF5dm5vQ3Jod0lHMnBpZ2IxZnNSQk5oQ0N3Z2tmT3F3c2JZb3F4Y2lBK25Xb2JhUnpHOGU5UGQyVDY5dUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIyNzEzCWZpbGU6VmVsdG9uIExpdmVfMS4wLjFfYW1kNjQuZGViCXZlcnNpb246MS4wLjEKb0ZkSGZud1poclU2OFNNUUF4OU1iUW1MdU9pc0lsNDZrdWdHMmtiS1dUT0IyOGx4VE9jbDVhdHVRRlF2TFdLQWRESmtLTjF5Yk91eWVDYnVoeWgvREE9PQo=",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_1.0.1_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWxXUzVET0Q0VDhCWkcxWWpnMFhIVjBMRHBqKzJIVUlud0xlcERqbWtNR1pXV200SjNjWnNBenY2OGVzWlR6SzFHelY2R281U0hWZnlxNmgzUGFPS2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIyNzEzCWZpbGU6VmVsdG9uIExpdmUtMS4wLjEtMS54ODZfNjQucnBtCXZlcnNpb246MS4wLjEKVFA2cEdTVGRCVzVhZXRpTGI5Nmg3ejNEWnFJd0txZGE5NmJzZGZmUWRqQk1jY2RkcElrci8wY1FoMGlMN1RkNnV6NGtUU2x5VmNyTU1kRW1FU0UwQ0E9PQo=",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live-1.0.1-1.x86_64.rpm"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWlEYTQwRndLL21sVkVoaXhUREY1ajFKRERJdVlLcW5JQ0lqUU5HOEJqL0VpdTR1TWFGbDZFK1FXSEtXVTdPcHl3blJvSlVRMUdVSXJNOU1JaFd2OFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIzMDI1CWZpbGU6VmVsdG9uIExpdmVfMS4wLjFfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC4xCkcySk9vWjRocURkWEdxd3ZWRTFaKzFyMGZjVzg5MnMxcWZDQlJSWitHK2JWRU5qb3ZsMnZnZlJMaU8wKzNicWJIRkhRUmRONnJHQ1UxeDBOcVlPeEFBPT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_1.0.1_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWlEYTQwRndLL21sVkVoaXhUREY1ajFKRERJdVlLcW5JQ0lqUU5HOEJqL0VpdTR1TWFGbDZFK1FXSEtXVTdPcHl3blJvSlVRMUdVSXJNOU1JaFd2OFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIzMDI1CWZpbGU6VmVsdG9uIExpdmVfMS4wLjFfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMC4xCkcySk9vWjRocURkWEdxd3ZWRTFaKzFyMGZjVzg5MnMxcWZDQlJSWitHK2JWRU5qb3ZsMnZnZlJMaU8wKzNicWJIRkhRUmRONnJHQ1UxeDBOcVlPeEFBPT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_1.0.1_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWdHU0wvNUlubkhIWEJpckxqazBxZDV1b0Rla0lseWRJOEcxSXJKcDUwd0RKSUFWRTN5c2dUdFpGYzZzcnVUY2JpcFlESlYvd0hEVE9sR2hqa3RoOFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIzMDI1CWZpbGU6VmVsdG9uIExpdmVfMS4wLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4xCjhlc3lvOG5BdUFHY2ZxV2tMcTAwNTMxNVM2dGxWdDJnWXVaQ2ZpdmUzVzhUcXpPTnhNMDJEcUJJeFNOSk5FOHNEQTRCWWp5OU9UR0g3V2FyeHl5WkJ3PT0K",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_1.0.1_x64-setup.exe"
+    },
+    "windows-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWt6OXo5aVFnMjM0cExFTUZUYVlWL05FU1UyUE9xWnFQM0EwUGRBR0VRRk1URjEyVituR2FxUFgwUlpsRXdjSEtqbXR6TC83ZWpFWndERVlsTUgwdEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIzNTMxCWZpbGU6VmVsdG9uIExpdmVfMS4wLjFfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEKLzdPZG4vblA2L0F1MVNFVWNTMlFlQXZ0ZDFOY2VRS0pNY0RaemJ4V1BqRFI0MjFXOWdPS2V4MEpFaHRLOHlyQ1JLT2JPUTlJTWRzcUJ5LzNEa2toQmc9PQo=",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_1.0.1_arm64-setup.exe"
+    },
+    "windows-aarch64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWt6OXo5aVFnMjM0cExFTUZUYVlWL05FU1UyUE9xWnFQM0EwUGRBR0VRRk1URjEyVituR2FxUFgwUlpsRXdjSEtqbXR6TC83ZWpFWndERVlsTUgwdEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIzNTMxCWZpbGU6VmVsdG9uIExpdmVfMS4wLjFfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEKLzdPZG4vblA2L0F1MVNFVWNTMlFlQXZ0ZDFOY2VRS0pNY0RaemJ4V1BqRFI0MjFXOWdPS2V4MEpFaHRLOHlyQ1JLT2JPUTlJTWRzcUJ5LzNEa2toQmc9PQo=",
+      "url": "https://github.com/nakel-ola/velton-releases/releases/download/live-v1.0.1/Velton.Live_1.0.1_arm64-setup.exe"
     }
   }
 }
